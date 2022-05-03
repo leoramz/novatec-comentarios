@@ -1,0 +1,10 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "novatec",
+    "password": "novatec",
+    "database": "novatec",
+    "entities": ["src/**/**/**/*.entity{.ts,.js}"],
+    "synchronize": true 
+}
