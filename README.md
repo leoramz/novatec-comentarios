@@ -52,11 +52,12 @@ URL for documentation [http://localhost:3000/api/](http://localhost:3000/api/)
 
 ## MySQL
 
-Configure your mysql database engine as follows: 
-    - USERNAME: [novatec](novatec),
-    - PASSWORD: [novatec](novatec),
-    - DATABASE: [novatec](novatec),
-    - PORT: [3306](3306)
+Configure your mysql database engine as follows:
+
+- USERNAME: [novatec](novatec),
+- PASSWORD: [novatec](novatec),
+- DATABASE: [novatec](novatec),
+- PORT: [3306](3306)
 
 ## Support
 
