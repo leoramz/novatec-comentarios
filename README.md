@@ -35,28 +35,27 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
-$ npm run start
+# local with watch mode
+$ npm run start:local
 
-# watch mode
+# develop with watch mode
 $ npm run start:dev
 
 # production mode
 $ npm run start:prod
 ```
 
-## Test
+## Swagger
 
-```bash
-# unit tests
-$ npm run test
+URL for documentation [http://localhost:3000/api/](http://localhost:3000/api/)
 
-# e2e tests
-$ npm run test:e2e
 
-# test coverage
-$ npm run test:cov
-```
+## MySQL
+Configure your mysql database engine as follows: 
+    USERNAME: novatec,
+    PASSWORD: novatec,
+    DATABASE: novatec,
+    PORT: 3306
 
 ## Support
 

@@ -19,15 +19,15 @@ const ENV = process.env.NODE_ENV;
             type: 'mysql',
             host: 'localhost',
             port: 3306,
-            username: 'novatec',
-            password: 'novatec',
-            database: 'novatec',
+            username: `novatec`,
+            password: `novatec`,
+            database: `novatec`,
             autoLoadEntities: false,
-            synchronize: true,            
+            synchronize: true,
             entities: [
                 User, Comentario
             ],
-          }),
+        }),
         UserModule,
         AuthModule,
         ComentarioModule
